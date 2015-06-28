@@ -1,4 +1,6 @@
-# Modeling Ebola Contagion Using Airline Networks. Please Cite when sharing.
+# Modeling Ebola Contagion Using Airline Networks. 
+Please Cite when sharing.
+
 Files supporting ebola contagion analysis at Stable markets.
 https://stablemarkets.wordpress.com/2015/05/30/modeling-contagion-using-airline-networks-in-r/
 
